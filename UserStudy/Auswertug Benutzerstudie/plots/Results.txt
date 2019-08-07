@@ -1,0 +1,152 @@
+"C:\Program Files\Python37\python.exe" "C:/Users/Lucas/Desktop/Auswertung/Auswertung Python/main.py"
+
+# 1. Analyse TAM
+
+## Nützlichkeit:
+### Gesamt:
+Mean | SD
+5.857142857142857 | 0.3631365196012814
+### Einordnen:
+Mean | SD
+5.714285714285714 | 0.4879500364742666
+### Aufrufen:
+Mean | SD
+6.0 | 0.0
+
+Verteilung:
+Durchgang: 0 | 1 | 2 | 3 | 4 | 5 | 6
+qnr2:       | 0 | 0 | 0 | 0 | 0 | 2 | 5
+qnr3:       | 0 | 0 | 0 | 0 | 0 | 0 | 7
+gesamt:     | 0 | 0 | 0 | 0 | 0 | 2 | 12
+
+## Usability (SUS):
+### Gesamt:
+Mean | SD
+81.96428571428571 | 10.43194849731101
+### Einordnen:
+Mean | SD
+78.92857142857143 | 13.13845682030609
+### Aufrufen:
+Mean | SD
+85.0 | 6.454972243679028
+
+Verteilung:
+Durchgang:   -15.0 - -5.0 |  -5.0 - 5.0 |  5.0 - 15.0 |  15.0 - 25.0 |  25.0 - 35.0 |  35.0 - 45.0 |  45.0 - 55.0 |  55.0 - 65.0 |  65.0 - 75.0 |  75.0 - 85.0 |  85.0 - 95.0 | 
+qnr2:    |       0  |       0  |       0  |       0  |       0  |       0  |       1  |       1  |       1  |       2  |       2
+qnr3:    |       0  |       0  |       0  |       0  |       0  |       0  |       0  |       0  |       1  |       5  |       1
+gesamt:  |       0  |       0  |       0  |       0  |       0  |       0  |       1  |       1  |       2  |       7  |       3
+
+
+## Attitude towards using:
+### Gesamt:
+Mean | SD
+5.071428571428571 | 1.4392458342578487
+### Einordnen:
+Mean | SD
+4.857142857142857 | 1.864454471471609
+### Aufrufen:
+Mean | SD
+5.285714285714286 | 0.9511897312113419
+
+Verteilung:
+Durchgang: 0 | 1 | 2 | 3 | 4 | 5 | 6 
+qnr2:    | 0 | 1 | 0 | 0 | 1 | 1 | 4
+qnr3:    | 0 | 0 | 0 | 0 | 2 | 1 | 4
+gesamt:  | 0 | 1 | 0 | 0 | 3 | 2 | 8
+
+
+---
+
+
+## Entscheidung Ordner/LinkFlow:
+
+### Gesamt:
+Mean | SD
+4.857142857142857 | 1.4600918230947437
+### Einordnen:
+Mean | SD
+5.0 | 1.4142135623730951
+### Aufrufen:
+Mean | SD
+4.714285714285714 | 1.6035674514745462
+
+Verteilung:
+Fall:    Ordner --- |  -- |  -  |  0  |  +  | ++  | +++ LinkFlow
+qnr2:         |  0  |  0  |  0  |  2  |  0  |  1  |  4
+qnr3:         |  0  |  0  |  0  |  3  |  0  |  0  |  4
+gesamt:       |  0  |  0  |  0  |  5  |  0  |  1  |  8
+
+
+---
+
+
+
+==============================
+
+
+# 2. Analyse Messwerte
+
+## Übersicht Personen:
+       case     LF-qnr2  Folder-qnr2    LF-qnr3  Folder-qnr3
+0  AF689975  132.761905    55.428571  12.857143    15.857143
+1  CD173789   84.952381    54.000000   5.857143    17.857143
+2  EY196957  100.666667    63.333333   9.000000     5.428571
+3  GZ384373  104.809524    75.857143   4.571429     5.857143
+4  QK371974   77.095238    71.333333   5.857143     5.428571
+5  TB749451   57.428571    33.047619   6.571429    12.571429
+6  TP178163  121.571429    85.285714   5.000000    15.571429
+
+## Überblick Interaktionen Gesamt:
+Fall: Mean | SD
+Einsortieren LF:     97.04081632653062 | 26.026694659503708
+Einsortieren Ordner: 62.61224489795918 | 17.155824649487183
+Aufrufen LF:         7.10204081632653 | 2.9133918864050288
+Aufrufen Ordner:     11.224489795918368 | 5.509952123239251
+
+
+---
+
+C:\Program Files\Python37\lib\site-packages\scipy\stats\morestats.py:2863: UserWarning: Sample size too small for normal approximation.
+  warnings.warn("Sample size too small for normal approximation.")
+
+
+Messdaten - Einsortieren
+Zweiseitiger Wilcoxon Vorzeichen-Rang-Summentest
+Kleinster W-Wert (kleinester Vorzeichenwert): 0.0
+P-Wert (laut SciPy): 0.017960477526078766
+
+
+
+
+==============================
+
+
+
+Attribute - Mean+SD
+Durchschnitt (arithmetisches Mittel) und Standartabweichung der Bewertungen der Attribute
+Das Ergebnis sagt: Mit welcher Signifikant kann die Nullhypothese (die Bewertung beider Systeme ist ungefähr gleich, die unterschiede bestehen nur aus Zufall) verworfen werden?
+| Attribut           | LinkFlow Einsortieren | LinkFlow Aufrufen | Ordner Einsortieren | Ordner Aufrufen |
+|--------------------|-----------------------|-------------------|---------------------|-----------------|
+| Schnelligkeit:     | 3.5714285714285716 (sd=1.2724180205607034) | 4.857142857142857 (sd=0.37796447300922725) | 3.0 (sd=1.1547005383792515) | 3.2857142857142856 (sd=1.2535663410560174) |
+| Übersichtlichkeit: | 4.285714285714286 (sd=0.7559289460184545) | 4.428571428571429 (sd=0.7867957924694431) | 2.5714285714285716 (sd=1.1338934190276817) | 2.857142857142857 (sd=1.3451854182690985) |
+| Einfachkeit:       | 3.4285714285714284 (sd=1.1338934190276817) | 4.571428571428571 (sd=0.5345224838248488) | 2.7142857142857144 (sd=1.3801311186847085) | 2.857142857142857 (sd=1.2149857925879117) |
+| Unterstützend:     | 4.428571428571429 (sd=0.7867957924694431) | 4.571428571428571 (sd=0.5345224838248488) | 2.7142857142857144 (sd=1.1126972805283737) | 3.0 (sd=1.1547005383792515) |
+
+
+C:\Program Files\Python37\lib\site-packages\scipy\stats\morestats.py:2863: UserWarning: Sample size too small for normal approximation.
+  warnings.warn("Sample size too small for normal approximation.")
+
+
+Attribute - Signifikanz
+Signifikanz nach dem Zweiseitigen Wilcoxon Vorzeichen-Rang-Summentest
+Das Ergebnis sagt: Mit welcher Signifikant kann die Nullhypothese (die Bewertung beider Systeme ist ungefähr gleich, die unterschiede bestehen nur aus Zufall) verworfen werden?
+| Attribut          | Einsortieren: p-Wert (w-Wert) | Aufrufen: p-Wert (w-Wert) |
+|-------------------|-------------------------------|---------------------------|
+| Schnelligkeit     | 0.44193968047119325 (9.5) | 0.025596805385948558 (0.0) |
+| Übersichtlichkeit | 0.016351221575805885 (0.0) | 0.04216819709715596 (0.0) |
+| Einfachheit       | 0.2877873901541501 (5.5) | 0.02643445397688663 (0.0) |
+| Unterstützend     | 0.014058605323737277 (0.0) | 0.014058605323737277 (0.0) |
+
+
+
+Process finished with exit code 0

@@ -1,0 +1,560 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/sql_querys/messwerte.sql" line="0" />
+    <bookmark url="file://$PROJECT_DIR$/main.py" line="737" mnemonic="1" />
+    <bookmark url="file://$PROJECT_DIR$/main.py" line="208" mnemonic="2" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="300d8b9e-e5d6-425e-93c4-522b94a81acb" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/Auswertung_Python$main.coverage" NAME="main Coverage Results" MODIFIED="1563979793263" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Auswertung_Python$base.coverage" NAME="base Coverage Results" MODIFIED="1563564330885" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Auswertung_Python$import_interactions.coverage" NAME="import_interactions Coverage Results" MODIFIED="1563375283678" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="data.sqlite" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="data.sqlite" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="data.sqlite" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="main: schema" type="981a47c2:SqliteImplModel$Schema" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ExecutionTargetDialog">
+    <checked>
+      <node key="c75edfbf-72c6-46a2-90b1-d20a95c579fa" />
+    </checked>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/main.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="94">
+              <caret line="199" selection-start-line="199" selection-end-line="199" />
+              <folding>
+                <element signature="e#0#17#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/import_interactions.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1003">
+              <caret line="61" selection-start-line="61" selection-end-line="61" />
+              <folding>
+                <element signature="e#1#15#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/data/values_linkedinfo_2019-07-15_12-32.csv">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/data/variables_linkedinfo_2019-07-15_12-32.csv">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>COMMENT '.*',*</find>
+      <find>FB</find>
+      <find>case LIKE &quot;CD173789&quot;</find>
+      <find>völlig</find>
+      <find>einsortieren</find>
+      <find>qnr2</find>
+      <find>COMMENT '.*'</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+      <replace>,</replace>
+      <replace>FR</replace>
+      <replace>qnr3</replace>
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/data/data_linkedinfo_qrn3_2019-07-15_12-32.txt" />
+        <option value="$PROJECT_DIR$/data/sql/att_folder_linkflow.sql" />
+        <option value="$PROJECT_DIR$/import_interactions.py" />
+        <option value="$PROJECT_DIR$/data/sql/tam.sql" />
+        <option value="$PROJECT_DIR$/base.py" />
+        <option value="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" />
+        <option value="$PROJECT_DIR$/data/sql/att_size.sql" />
+        <option value="$PROJECT_DIR$/data/sql/messwerte.sql" />
+        <option value="$PROJECT_DIR$/data_linkedinfo_2019-08-07_10-59.sql" />
+        <option value="$PROJECT_DIR$/data_linkedinfo_base_filtered.sql" />
+        <option value="$APPLICATION_CONFIG_DIR$/consoles/db/c75edfbf-72c6-46a2-90b1-d20a95c579fa/console.sql" />
+        <option value="$PROJECT_DIR$/main.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="205" />
+    <option name="y" value="-21" />
+    <option name="width" value="1294" />
+    <option name="height" value="1407" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Auswertung Benutzerstudie" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Auswertung Benutzerstudie" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Auswertung Benutzerstudie" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Auswertung Benutzerstudie" type="462c0819:PsiDirectoryNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Auswertung Benutzerstudie" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Auswertung Benutzerstudie" type="462c0819:PsiDirectoryNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
+              <item name="sql" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="database.console.LAST_STATE" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/data/sql" />
+      <recent name="C:\Users\Lucas\Desktop\Auswertung\Auswertung Python\data\sql" />
+      <recent name="$PROJECT_DIR$/data" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/sql_querys" />
+      <recent name="$PROJECT_DIR$/data/sql" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.main">
+    <configuration name="base" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Auswertung Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test code snippets.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="import_interactions" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Auswertung Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/import_interactions.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Auswertung Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.main" />
+        <item itemvalue="Python.base" />
+        <item itemvalue="Python.import_interactions" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="300d8b9e-e5d6-425e-93c4-522b94a81acb" name="Default Changelist" comment="" />
+      <created>1563184900476</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1563184900476</updated>
+      <workItem from="1563184902542" duration="45433000" />
+      <workItem from="1563363977232" duration="6007000" />
+      <workItem from="1563370994896" duration="11023000" />
+      <workItem from="1563445001766" duration="5217000" />
+      <workItem from="1563472709422" duration="736000" />
+      <workItem from="1563533114871" duration="18239000" />
+      <workItem from="1563623689705" duration="7594000" />
+      <workItem from="1563644640291" duration="16299000" />
+      <workItem from="1563783014103" duration="10551000" />
+      <workItem from="1563797428841" duration="1120000" />
+      <workItem from="1563899328241" duration="629000" />
+      <workItem from="1563961312676" duration="2358000" />
+      <workItem from="1563963729478" duration="886000" />
+      <workItem from="1563972515436" duration="4750000" />
+      <workItem from="1565175908010" duration="731000" />
+      <workItem from="1565176720793" duration="146000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="131719000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="30" width="1366" height="738" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.36702126" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3281372" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.43023255" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4660951" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Database Console" order="7" weight="0.50194854" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Database Changes" order="10" weight="0.3281372" />
+      <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.49946523" weight="0.3281372" />
+      <window_info anchor="bottom" id="Event Log" order="12" sideWeight="0.5005348" side_tool="true" weight="0.46345514" />
+      <window_info anchor="bottom" id="Python Console" order="13" sideWeight="0.49946523" weight="0.25720966" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" weight="0.40045592" />
+      <window_info anchor="right" id="Database" order="4" weight="0.30319148" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="e" />
+        <watch expression="ax[1].dtype" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Auswertung_Python$import_interactions.coverage" NAME="import_interactions Coverage Results" MODIFIED="1563370177543" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Auswertung_Python$base.coverage" NAME="base Coverage Results" MODIFIED="1563367778828" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Auswertung_Benutzerstudie$main.coverage" NAME="main Coverage Results" MODIFIED="1565176840606" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>for x,y in sus: pass</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/data/sql/data_linkedinfo_base_2019-07-15_12-43.sql" />
+    <entry file="file://$PROJECT_DIR$/data/sql/data_linkedinfo_qnr2_2019-07-15_12-44.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="467">
+          <caret line="69" column="452" lean-forward="true" selection-start-line="61" selection-end-line="69" selection-end-column="452" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/sql/data_linkedinfo_qnr3_2019-07-15_12-44.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="467">
+          <caret line="92" column="571" lean-forward="true" selection-start-line="85" selection-end-line="92" selection-end-column="571" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/lib/python3.7/site-packages/seaborn/categorical.py" />
+    <entry file="file://$PROJECT_DIR$/sql_querys/attributes.sql">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file:///usr/lib/python3.7/site-packages/pandas/core/indexes/base.py" />
+    <entry file="file:///usr/lib/python3.7/site-packages/pandas/core/generic.py" />
+    <entry file="file:///usr/lib/python3.7/codecs.py" />
+    <entry file="file://$PROJECT_DIR$/data/sql/utility.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="32" selection-start-column="25" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/sql/att_using.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="32" selection-start-column="25" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/sql/att_folder_linkflow.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="41" selection-start-column="25" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/sql/sus.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="25" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Program Files/Python37/Lib/site-packages/pandas/core/computation/expr.py" />
+    <entry file="das://c75edfbf-72c6-46a2-90b1-d20a95c579fa/schema/main/table/data_linkedinfo_qnr3">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering>
+            <filter text="" />
+          </filtering>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharm2018.3/system/python_stubs/-991083293/builtins.py" />
+    <entry file="das://c75edfbf-72c6-46a2-90b1-d20a95c579fa/schema/main/table/interactions.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="13" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/_pydev_imps/_pydev_execfile.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Program Files/Python37/Lib/site-packages/pandas/core/generic.py" />
+    <entry file="file://C:/Program Files/Python37/Lib/site-packages/matplotlib/pyplot.py" />
+    <entry file="file://C:/Program Files/Python37/Lib/site-packages/scipy/linalg/basic.py" />
+    <entry file="file://C:/Program Files/Python37/Lib/random.py" />
+    <entry file="file://$PROJECT_DIR$/data/sql/tam.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" lean-forward="true" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Program Files/Python37/Lib/site-packages/pandas/core/internals/construction.py" />
+    <entry file="file://C:/Program Files/Python37/Lib/ast.py" />
+    <entry file="file://C:/Program Files/Python37/Lib/site-packages/pandas/core/indexes/base.py" />
+    <entry file="file://C:/Program Files/Python37/Lib/site-packages/pandas/core/computation/eval.py" />
+    <entry file="file://$PROJECT_DIR$/data/sql/att_size.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="16" lean-forward="true" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data_linkedinfo_2019-08-07_10-59.sql" />
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/c75edfbf-72c6-46a2-90b1-d20a95c579fa/console.sql">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="das://c75edfbf-72c6-46a2-90b1-d20a95c579fa/schema/main/table/data_linkedinfo_base">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state projectRestartId="82b3eead-ca4c-4c14-b683-594c79c6af4a">
+          <filtering>
+            <filter text="" />
+          </filtering>
+          <column-attributes>
+            <column name="rowid" enabled="false" position="-1" />
+          </column-attributes>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/sql/data_linkedinfo_base.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="94">
+          <caret line="74" column="25" selection-end-line="97" selection-end-column="515" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://c75edfbf-72c6-46a2-90b1-d20a95c579fa/schema/main/table/data_linkedinfo_qnr2">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state projectRestartId="82b3eead-ca4c-4c14-b683-594c79c6af4a">
+          <filtering>
+            <filter text="" />
+          </filtering>
+          <column-attributes>
+            <column name="rowid" enabled="false" position="-1" />
+          </column-attributes>
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://c75edfbf-72c6-46a2-90b1-d20a95c579fa/schema/main/table/interactions">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state projectRestartId="82b3eead-ca4c-4c14-b683-594c79c6af4a">
+          <filtering>
+            <filter text="" />
+          </filtering>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test code snippets.py" />
+    <entry file="das://c75edfbf-72c6-46a2-90b1-d20a95c579fa/schema/main/table/testpersons_study_details">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state projectRestartId="82b3eead-ca4c-4c14-b683-594c79c6af4a">
+          <filtering>
+            <filter text="" />
+          </filtering>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/data_linkedinfo_2019-07-15_12-17.txt" />
+    <entry file="file://$PROJECT_DIR$/data/data_linkedinfo_base_2019-07-15_12-30.txt" />
+    <entry file="file://$PROJECT_DIR$/data/data_linkedinfo_qnr2_2019-07-15_12-31.txt" />
+    <entry file="file://$PROJECT_DIR$/data/data_linkedinfo_qrn3_2019-07-15_12-32.txt" />
+    <entry file="file://$PROJECT_DIR$/data/data_linkedinfo_qrn3_2019-07-15_12-32_clean.txt" />
+    <entry file="file://$PROJECT_DIR$/import_interactions.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1003">
+          <caret line="61" selection-start-line="61" selection-end-line="61" />
+          <folding>
+            <element signature="e#1#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/values_linkedinfo_2019-07-15_12-32.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/variables_linkedinfo_2019-07-15_12-32.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sql_querys/messwerte.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="94">
+          <caret line="199" selection-start-line="199" selection-end-line="199" />
+          <folding>
+            <element signature="e#0#17#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
